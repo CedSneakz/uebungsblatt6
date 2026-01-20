@@ -16,7 +16,7 @@ public static boolean isMirrorArray(int[] a,int[] b) {
     }return true;
 }
 
-
+//testen ob pushen funtkioniert
 
 
 }
